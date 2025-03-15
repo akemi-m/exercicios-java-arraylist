@@ -1,0 +1,84 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "exercicio_3.Main",
+      "projectName": "exercicios-java-arraylist_9abcc309"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "exercicio_2.Main",
+      "projectName": "exercicios-java-arraylist_9abcc309"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "exercicio_1.Main",
+      "projectName": "exercicios-java-arraylist_9abcc309"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "exercicio_4.Main",
+      "projectName": "atv_1_akemi_49668528"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "exercicio_04.Main",
+      "projectName": "atv_1_akemi_49668528"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "exercicio_01.Main",
+      "projectName": "atv_1_akemi_49668528"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "ex_1.Main",
+      "projectName": "atv_1_akemi_49668528"
+    },
+    {
+      "type": "java",
+      "name": "Main(1)",
+      "request": "launch",
+      "mainClass": "ex_2.Main",
+      "projectName": "atv_1_akemi_49668528"
+    },
+    {
+      "type": "java",
+      "name": "Main(2)",
+      "request": "launch",
+      "mainClass": "ex_3.Main",
+      "projectName": "atv_1_akemi_49668528"
+    },
+    {
+      "type": "java",
+      "name": "Main(3)",
+      "request": "launch",
+      "mainClass": "ex_4.Main",
+      "projectName": "atv_1_akemi_49668528"
+    }
+  ]
+}
